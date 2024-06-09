@@ -30,6 +30,6 @@ Ce dépôt GitHub contient le code source d'une application web de chat, dévelo
 1. **Cloner le Dépôt** : Clonez ce dépôt sur votre machine locale.
    ```bash
    git clone https://github.com/votre-utilisateur/votre-repo.git
-- CREATE DATABASE chat_app;
-- USE chat_app;
+- CREATE DATABASE chat;
+- USE chat;
 - SOURCE db/schema.sql;
