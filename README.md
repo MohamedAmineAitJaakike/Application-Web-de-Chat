@@ -1,8 +1,15 @@
-# Application Web de Chat
+<div align="center">
+  <img src="https://img.icons8.com/clouds/100/000000/chat.png"/>
+  <h1>💬 Application Web de Chat 💬</h1>
+  <p>
+    <img src="https://img.shields.io/badge/Language-HTML%2C%20PHP%2C%20CSS%2C%20JavaScript-blue" alt="Language">
+    <img src="https://img.shields.io/badge/Status-En%20Cours-brightgreen" alt="Status">
+    <img src="https://img.shields.io/github/license/votre-nom/application-web-chat" alt="License">
+  </p>
+  <p>Ce dépôt GitHub contient le code source d'une application web de chat, développée en utilisant HTML, PHP, CSS, JavaScript et SQL. Cette application permet aux utilisateurs de s'inscrire, de se connecter, de participer à des salons de discussion et de gérer leurs interactions en temps réel.</p>
+</div>
 
-Ce dépôt GitHub contient le code source d'une application web de chat, développée en utilisant HTML, PHP, CSS, JavaScript et SQL. Cette application permet aux utilisateurs de s'inscrire, de se connecter, de participer à des salons de discussion et de gérer leurs interactions en temps réel.
-
-## Fonctionnalités
+## Fonctionnalités :
 
 ### Authentification
 
@@ -30,6 +37,10 @@ Ce dépôt GitHub contient le code source d'une application web de chat, dévelo
 1. **Cloner le Dépôt** : Clonez ce dépôt sur votre machine locale.
    ```bash
    git clone https://github.com/votre-utilisateur/votre-repo.git
-- CREATE DATABASE chat;
-- USE chat;
-- SOURCE db/schema.sql;
+CREATE DATABASE chat;
+USE chat;
+SOURCE db/schema.sql;
+<div align="center">
+  <p>Ce projet est développé et maintenu par <strong>Mohamed Amine Ait Jaakike</strong>.</p>
+</div>
+```
