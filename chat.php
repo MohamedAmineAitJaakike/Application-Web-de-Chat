@@ -2,7 +2,7 @@
                 session_start();
              include "connexion_bdd.php";
               $email = $_SESSION['email']; 
-              session_destroy();
+          
 ?>
 
 <!DOCTYPE html>
@@ -23,7 +23,7 @@
               </span>
              <div class="update">
                 <a href="index.php" id="Supprime_message" class="Deconnexion_btn">Supprimer mon compte</a>  
-                <a href="index.php" class="Deconnexion_btn">Déconnexion</a>
+                <a href="deconnexion.php" class="Deconnexion_btn">Déconnexion</a>
              </div> 
         </div>
         <div class="message_box">
